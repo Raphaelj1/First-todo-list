@@ -564,6 +564,11 @@ video {
   margin-bottom: 1.75rem;
 }
 
+.my-4 {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 .mb-2 {
   margin-bottom: 0.5rem;
 }
@@ -828,6 +833,11 @@ video {
 }
 
 @media (min-width: 768px) {
+  .md\:my-7 {
+    margin-top: 1.75rem;
+    margin-bottom: 1.75rem;
+  }
+
   .md\:w-32 {
     width: 8rem;
   }
