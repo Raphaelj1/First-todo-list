@@ -82,7 +82,7 @@ function Todo() {
             </div>
 
             <div>
-                <form action="" onSubmit={handleSubmit} className='flex justify-between items-center overflow-hidden my-4 md:my-7 bg-gray-200 rounded-full'>
+                <form action="" onSubmit={handleSubmit} className='flex justify-between items-center overflow-hidden my-4 md:my-7 bg-gray-200 text-base rounded-full'>
                     <input
                         type="text"
                         ref={taskInput}
